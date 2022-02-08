@@ -5,3 +5,4 @@
 # MATLAB
 # nodes.csv, edges.csv and obstacles.csv files are given
 # the shortest path from the start node to the goal node is provided by the algorithm
+# the screenshot of the result is provided
